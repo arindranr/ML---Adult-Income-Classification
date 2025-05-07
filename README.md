@@ -1,4 +1,4 @@
-# ML---Adult-Income-Classification
+## ML---Adult-Income-Classification with Random Forest
 
 ## 2209106070
 ## Arindra Nurshadrina Ramadini
